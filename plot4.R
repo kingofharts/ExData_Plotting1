@@ -28,7 +28,7 @@ with(hpc, {
             pch="",
             type="l",
             bg="transparent",
-            xaxt="n",
+            xaxt="n"
             
       )
       
@@ -47,7 +47,7 @@ with(hpc, {
             pch="",
             type="l",
             bg="transparent",
-            xaxt="n",
+            xaxt="n"
             
       )
       
