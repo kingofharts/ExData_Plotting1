@@ -1,5 +1,7 @@
 ## Introduction
 
+### NPH (kingofharts): When opening the .png's commited for homework, please click the "raw" button for viewing.  Backgrounds have been set to transparent per comments in discussion forum; they appears with checkered pattern when opened using the github viewer, but white when opened as a separate file, matching the original.
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
