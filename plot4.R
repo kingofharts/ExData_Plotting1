@@ -13,7 +13,7 @@ plot.new()
 
 ## arrange multi-plot layout
 
-par(mfrow = c(2,2), mar = c(4,4,2,1))
+par(mfrow = c(2,2), mar = c(4,4,2,1), oma = c(0,0,2,0))
 
 ## create plots
 
